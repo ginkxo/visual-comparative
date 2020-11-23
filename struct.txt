@@ -1,0 +1,10 @@
+overall structure
+
+dataloader -> class DataLoader to load the data
+cnn-base -> BaseCNN
+cnn-vis -> VisFeedbckCNN
+cnn-attn -> VisAttnCNN
+freak -> FreakFeats
+train -> CNNTrainer
+main -> main testbench
+
